@@ -26,7 +26,7 @@ environment and preparing the exercises repository.
 
 1. [Fork the `exercises` repository](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
 2. Enable GitHub Actions for your forked repository.
-    * Visit: `https://github.com/<YOUR_GITHUB_USERNAME>/exercises/actions`
+    * Visit: `https://github.com/gingersnapple/exercises/actions`
 3. Clone your forked repository.
 4. Enter the `exercises` directory and add the original repository as a `course` remote.
 
